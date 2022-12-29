@@ -1,4 +1,6 @@
 <div id="badges" align="center">
+  <p>Endi Sahiti<p>
+  <h3>Software Developer</h3>
   <a href="https://www.linkedin.com/in/endi-sahiti-3638b21a4/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
